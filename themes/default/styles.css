@@ -8,8 +8,8 @@
 
 /* Light mode (default) */
 body {
-  background-color: #ffffff;
-  color: #000000;
+  background-color: #ffd7e5;
+  color: #3352C9;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -31,9 +31,9 @@ a {
 }
 
 .profile-pic {
-  width: 120px;
+  width: 360px;
   height: 120px;
-  border-radius: 50%;
+  border-radius: 10.4%;
   object-fit: cover;
   margin-bottom: 15px;
   border: 2px solid black;
@@ -49,7 +49,7 @@ a {
   font-size: 16px;
   margin-bottom: 30px;
   line-height: 1.6;
-  color: #555;
+  color: #0B3C39;
 }
 
 .links {
@@ -63,8 +63,8 @@ a {
   display: inline-flex;
   align-items: center;
   gap: 10px;
-  background-color: #f0f0f0;
-  color: black;
+  background-color: #06b7ff;
+  color: #1C0330;
   padding: 15px;
   border-radius: 8px;
   font-size: 18px;
@@ -73,14 +73,14 @@ a {
 }
 
 .link-button:hover {
-  background-color: #e0e0e0;
+  background-color: #d7eaff;
   transform: scale(1.05);
 }
 
 .footer {
   margin-top: 40px;
   font-size: 14px;
-  color: #777;
+  color: #402C9F;
 }
 
 .button-container {
@@ -105,7 +105,7 @@ a {
   cursor: pointer;
   transition: transform 0.2s;
   background: none;
-  color: black;
+  color: #4935A9;
 }
 
 .icon-button i {
@@ -114,7 +114,7 @@ a {
 
 .icon-button:hover {
   transform: scale(1.1);
-  color: #666;
+  color: #503e3e;
 }
 
 .icon-button:active {
@@ -123,19 +123,20 @@ a {
 
 .link-button-text {
   font-size: 14px;
-  color: #777;
+  color: #6F6373;
 }
 
 .copyright {
   margin-top: 15px;
   font-size: 12px;
+  color: 00A59A;
 }
 
 /* Dark mode */
 @media (prefers-color-scheme: dark) {
   body {
-    background-color: #0d1117;
-    color: white;
+    background-color: #022b73;
+    color: #06B7FF;
   }
 
   a {
@@ -147,16 +148,16 @@ a {
   }
 
   .description {
-    color: #c9d1d9;
+    color: #7B94ED;
   }
 
   .link-button {
-    background-color: #21262d;
-    color: white;
+    background-color: #f266bb;
+    color: #173105;
   }
 
   .link-button:hover {
-    background-color: #30363d;
+    color: #173105;
   }
 
   .icon-button {
@@ -164,10 +165,14 @@ a {
   }
 
   .footer {
-    color: #8b949e;
+    color: #c0c59a;
   }
 
   .link-button-text {
     color: #8b949e;
+  }
+  
+  .copyright {
+  color: 00A59A;
   }
 }

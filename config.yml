@@ -34,11 +34,8 @@ avatar: "./images/Banner.png"
 name: "@salamandre85"
 
 # Tagline section text
-tagline: |-
-    Saul Sambono: Multidisciplinary artist in Canberra, Australia — appearing as     
-      (The)Salamandre85,     
-      Strongman Sadman,     
-      and frank_Blitz
+tagline: >-
+    Saul Sambono: Multidisciplinary artist in Canberra, Australia
 
 # List of links
 # icon: Use Font Awesome icons (https://fontawesome.com/search?o=r&m=free)
@@ -125,9 +122,7 @@ socials:
 
 # Footer text
 footer: |
-    Hi 👋 I'm Saul Sambono. I'm a creator living in the Australian Capital Territory 
-    I make works and perform under the names Salamandre85, Strongman Sadman, and frank_Blitz
-    My social network is currently under renovation, but the best places to follow me are Instagram and BlueSky
+    Hi 👋 I'm Saul Sambono | Artist | Music Producer | Cabaret Performer| Sound Designer | Voice Actor | Salamandre85 | Strongman Sadman | frank_Blitz
 
 # Footer copyright message
 # Linkyee is a 100% free, open-source project—feel free to modify the copyright message as you like. :)

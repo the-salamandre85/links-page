@@ -35,13 +35,10 @@ name: "@salamandre85"
 
 # Tagline section text
 tagline: >-
-    Saul Sambono: Multidisciplinary artist in Canberra, Australia — appearing as 
-    
-    (The)Salamandre85, 
-    
-    Strongman Sadman, 
-    
-    and frank_Blitz
+    Saul Sambono: Multidisciplinary artist in Canberra, Australia — appearing as     
+      (The)Salamandre85,     
+      Strongman Sadman,     
+      and frank_Blitz
 
 # List of links
 # icon: Use Font Awesome icons (https://fontawesome.com/search?o=r&m=free)
@@ -53,21 +50,21 @@ tagline: >-
 links:
   - link:
       icon: "fa-brands fa-bluesky"
-      text: "Follow me on BlueSky"
+      text: "My BlueSky has all of the things"
       url: "https://bsky.app/profile/salamandre85.bsky.social"
       title: "Salamandre85's BlueSky"
       alt: "Salamandre85's BlueSky"
       target: "_blank"
   - link:
       icon: "fa-brands fa-instagram"
-      text: "Salamandre85's visual art on Instagram"
+      text: "Salamandre85's visual work"
       url: "https://www.instagram.com/Salamandre85/"
       title: "Instagram"
       alt: "Salamandre85's Instagram"
       target: "_blank"
   - link:
       icon: "fa-brands fa-instagram"
-      text: "Performer Instagram (as Strongman Sadman)"
+      text: "Performer Profile on Instagram"
       url: "https://www.instagram.com/strongman.sadman/"
       title: "Instagram"
       alt: "Strongman Sadman's Instagram"
@@ -81,7 +78,7 @@ links:
       target: "_blank"
   - link:
       icon: "fa-solid fa-rss"
-      text: "Website"
+      text: "Personal Portfolio"
       url: "https://saulsambono.info/"
       alt: "Saul's Website"
       title: "Saul's Website"
@@ -129,10 +126,8 @@ socials:
 # Footer text
 footer: >
     Hi 👋 I'm Saul Sambono. I'm a creator living in the Australian Capital Territory 
-    
-    I make works and perform under the names Salamandre85, Strongman Sadman, and frank_Blitz
-
-    My social network is currently under renovation, but the best places to follow me are Instagram and BlueSky
+        I make works and perform under the names Salamandre85, Strongman Sadman, and frank_Blitz
+        My social network is currently under renovation, but the best places to follow me are Instagram and BlueSky
 
 # Footer copyright message
 # Linkyee is a 100% free, open-source project—feel free to modify the copyright message as you like. :)

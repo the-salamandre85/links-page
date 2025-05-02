@@ -31,7 +31,7 @@ title: "Salamandre85"
 avatar: "./images/Banner.png"
 
 # Name section text
-name: "@salamandre85"
+name: "@Salamandre85"
 
 # Tagline section text
 tagline: >-
@@ -68,7 +68,7 @@ links:
       target: "_blank"
   - link:
       icon: "fa-brands fa-youtube"
-      text: "Salamandre85 streaming games and tech on YouTube"
+      text: "Salamandre85 streaming games and tech"
       url: "https://www.youtube.com/@thesalamandre85"
       alt: "The Salamandre85 on YouTube"
       title: "The Salamandre85 on YouTube"

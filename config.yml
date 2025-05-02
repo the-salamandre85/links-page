@@ -13,7 +13,7 @@ lang: "en"
 plugins:
   # Automatically fetch Medium follower count
   - MediumFollowersCountPlugin:
-      username: zhgchgli
+      username: 
   # Automatically fetch Github repo star count
   - GithubRepoStarsCountPlugin:
       - ZhgChgLi/ZMarkupParser
@@ -35,7 +35,7 @@ name: "@salamandre85"
 
 # Tagline section text
 tagline: >-
-    "Saul Sambono: Multidisciplinary artist in Canberra, Australia"
+    Saul Sambono: Multidisciplinary artist in Canberra, Australia — appearing as (The)Salamandre85, Strongman Sadman, and frank_Blitz
 
 # List of links
 # icon: Use Font Awesome icons (https://fontawesome.com/search?o=r&m=free)
@@ -45,6 +45,34 @@ tagline: >-
 # alt: Alternative text for accessibility
 # target: `_blank` opens in a new tab, `_self` opens in the same frame
 links:
+  - link:
+      icon: "fa-brands fa-bluesky"
+      text: "Follow me on BlueSky"
+      url: "https://bsky.app/profile/salamandre85.bsky.social"
+      title: "Salamandre85's BlueSky"
+      alt: "Salamandre85's BlueSky"
+      target: "_blank"
+  - link:
+      icon: "fa-brands fa-instagram"
+      text: "Salamandre85's visual art on Instagram"
+      url: "https://www.instagram.com/Salamandre85/"
+      title: "Instagram"
+      alt: "Salamandre85's Instagram"
+      target: "_blank"
+  - link:
+      icon: "fa-brands fa-instagram"
+      text: "Performer Instagram (as Strongman Sadman)"
+      url: "https://www.instagram.com/strongman.sadman/"
+      title: "Instagram"
+      alt: "Strongman Sadman's Instagram"
+      target: "_blank"
+  - link:
+      icon: "fa-brands fa-youtube"
+      text: "Salamandre85 streaming games and tech on YouTube"
+      url: "https://www.youtube.com/@thesalamandre85"
+      alt: "The Salamandre85 on YouTube"
+      title: "The Salamandre85 on YouTube"
+      target: "_blank"
   - link:
       icon: "fa-solid fa-rss"
       text: "Website"
@@ -62,7 +90,7 @@ links:
 # target: _blank opens in a new tab, _self opens in the same frame
 socials:
   - social:
-      icon: "fa-brands fa-bsky"
+      icon: "fa-brands fa-bluesky"
       url: "https://bsky.app/profile/salamandre85.bsky.social"
       title: "Salamandre85's BlueSky"
       alt: "Salamandre85's BlueSky"

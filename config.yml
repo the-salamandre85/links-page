@@ -71,7 +71,7 @@ links:
       target: "_blank"
   - link:
       icon: "fa-brands fa-youtube"
-      text: "Salamandre85 streaming games and tech <span class='link-button-text'>({{vars.YouTubeViewCountPlugin}} Followers)</span>" 
+      text: "Salamandre85 streaming games and tech" 
       url: "https://www.youtube.com/@thesalamandre85"
       alt: "The Salamandre85 on YouTube"
       title: "The Salamandre85 on YouTube"

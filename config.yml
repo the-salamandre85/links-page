@@ -21,6 +21,9 @@ plugins:
       - ZhgChgLi/ZMediumToMarkdown
       - ZhgChgLi/linkyee
 
+  - YouTubeViewCountPlugin:
+      username: thesalamandre85
+
 # Google Analytics tracking id
 google_analytics_id:
 
@@ -68,7 +71,7 @@ links:
       target: "_blank"
   - link:
       icon: "fa-brands fa-youtube"
-      text: "Salamandre85 streaming games and tech"
+      text: "Salamandre85 streaming games and tech <span class='link-button-text'>({{vars.YouTubeViewCountPlugin}} Followers)</span>" 
       url: "https://www.youtube.com/@thesalamandre85"
       alt: "The Salamandre85 on YouTube"
       title: "The Salamandre85 on YouTube"

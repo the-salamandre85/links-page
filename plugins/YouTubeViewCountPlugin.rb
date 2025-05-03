@@ -12,7 +12,7 @@ class YouTubeViewCountPlugin < Plugin
     end
 
     def execute
-        return load_yt_views("https://www.youtube.com/@{@username}")
+        return load_yt_views("https://www.youtube.com/@#{@username}")
     end
 
 

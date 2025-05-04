@@ -56,18 +56,11 @@ links:
       alt: "Salamandre85's BlueSky"
       target: "_blank"
   - link:
-      icon: "fa-brands fa-instagram"
-      text: "Salamandre85's visual work"
-      url: "https://www.instagram.com/Salamandre85/"
-      title: "Instagram"
-      alt: "Salamandre85's Instagram"
-      target: "_blank"
-  - link:
-      icon: "fa-brands fa-instagram"
-      text: "Performer Profile on Instagram"
-      url: "https://www.instagram.com/strongman.sadman/"
-      title: "Instagram"
-      alt: "Strongman Sadman's Instagram"
+      icon: "fa-solid fa-rss"
+      text: "Personal Portfolio"
+      url: "https://saulsambono.info/"
+      alt: "Saul's Website"
+      title: "Saul's Website"
       target: "_blank"
   - link:
       icon: "fa-brands fa-soundcloud"
@@ -77,6 +70,13 @@ links:
       alt: "frank_Blitz on Soundcloud"
       target: "_blank"
   - link:
+      icon: "fa-brands fa-instagram"
+      text: "Performer Profile on Instagram"
+      url: "https://www.instagram.com/strongman.sadman/"
+      title: "Instagram"
+      alt: "Strongman Sadman's Instagram"
+      target: "_blank"
+  - link:
       icon: "fa-brands fa-youtube"
       text: "Salamandre85 streaming games and tech" 
       url: "https://www.youtube.com/@thesalamandre85"
@@ -84,12 +84,13 @@ links:
       title: "The Salamandre85 on YouTube"
       target: "_blank"
   - link:
-      icon: "fa-solid fa-rss"
-      text: "Personal Portfolio"
-      url: "https://saulsambono.info/"
-      alt: "Saul's Website"
-      title: "Saul's Website"
+      icon: "fa-brands fa-instagram"
+      text: "Salamandre85's visual work"
+      url: "https://www.instagram.com/Salamandre85/"
+      title: "Instagram"
+      alt: "Salamandre85's Instagram"
       target: "_blank"
+
   
 
 # List of social media links
@@ -106,13 +107,13 @@ socials:
       alt: "Salamandre85's BlueSky"
       target: "_blank"
   - social:
-      icon: "fa-brands fa-twitter"
+      icon: "fa-brands fa-x-twitter"
       url: "https://twitter.com/salamandre85"
       title: "Salamandre85's Twitter"
       alt: "Salamandre85's Twitter"
       target: "_blank"
   - social:
-      icon: "fa-brands fa-instagram"
+      icon: "fa-brands fa-square-instagram"
       url: "https://www.instagram.com/Salamandre85/"
       title: "Instagram"
       alt: "Salamandre85's Instagram"

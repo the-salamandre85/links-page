@@ -8,8 +8,8 @@
 
 /* Light mode (default) */
 body {
-  background-color: #ffd7e5;
-  color: #3352C9;
+  background-color: #f8b9fb;
+  color: #590086;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -17,6 +17,7 @@ body {
   cursor: default;
   text-align: center;
   padding: 20px 0 20px 0;
+  
 }
 
 a {
@@ -32,7 +33,7 @@ a {
 
 .profile-pic {
   width: 98%;
-  height: 120px;
+  /*! height: 120px; */
   border-radius: 14%;
   object-fit: cover;
   margin-bottom: 15px;
@@ -43,13 +44,14 @@ a {
   font-size: 28px;
   font-weight: bold;
   margin: 10px 0;
+  /*! text-shadow: -3px -1px 6px #b1f775; */
 }
 
 .description {
   font-size: 16px;
   margin-bottom: 30px;
   line-height: 1.6;
-  color: #0B3C39;
+  color: #043E3A;
 }
 
 .links {
@@ -145,6 +147,10 @@ a {
 
   .profile-pic {
     border-color: white;
+  }
+  
+  .name {
+    /*! text-shadow: -3px -1px 14px #a264df; */
   }
 
   .description {

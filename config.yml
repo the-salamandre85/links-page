@@ -50,7 +50,7 @@ tagline: >-
 links:
   - link:
       icon: "fa-brands fa-bluesky"
-      text: "My BlueSky has all of the things"
+      text: "BlueSky is my main channel"
       url: "https://bsky.app/profile/salamandre85.bsky.social"
       title: "Salamandre85's BlueSky"
       alt: "Salamandre85's BlueSky"
@@ -76,13 +76,13 @@ links:
       title: "Instagram"
       alt: "Strongman Sadman's Instagram"
       target: "_blank"
-  - link:
-      icon: "fa-brands fa-youtube"
-      text: "Salamandre85 streaming games and tech" 
-      url: "https://www.youtube.com/@thesalamandre85"
-      alt: "The Salamandre85 on YouTube"
-      title: "The Salamandre85 on YouTube"
-      target: "_blank"
+  #link:
+      #icon: "fa-brands fa-youtube"
+      #text: "Salamandre85 streaming games and tech" 
+     # url: "https://www.youtube.com/@thesalamandre85"
+      #alt: "The Salamandre85 on YouTube"
+      #title: "The Salamandre85 on YouTube"
+      #target: "_blank"
   - link:
       icon: "fa-brands fa-instagram"
       text: "Salamandre85's visual work"

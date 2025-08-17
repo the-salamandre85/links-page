@@ -63,6 +63,13 @@ links:
       title: "Saul's Website"
       target: "_blank"
   - link:
+      icon: "fa-solid fa-microphone-lines"
+      text: "Voiceover"
+      url: "https://the-salamandre85.github.io/vo-littlelink/"
+      alt: "Saul's Voiceover Work"
+      title: "Saul Sambono Voiceover"
+      target: "_blank"
+  - link:
       icon: "fa-brands fa-soundcloud"
       text: "Demos & sonic experiments"
       url: "https://soundcloud.com/saul-sambono/"

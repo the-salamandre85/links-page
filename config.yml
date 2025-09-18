@@ -55,13 +55,13 @@ links:
       title: "Salamandre85's BlueSky"
       alt: "Salamandre85's BlueSky"
       target: "_blank"
-  - link:
-      icon: "fa-solid fa-rss"
-      text: "Personal Portfolio"
-      url: "https://saulsambono.info/"
-      alt: "Saul's Website"
-      title: "Saul's Website"
-      target: "_blank"
+#  - link:
+#      icon: "fa-solid fa-rss"
+#      text: "Personal Portfolio"
+#      url: "https://saulsambono.info/"
+#      alt: "Saul's Website"
+#      title: "Saul's Website"
+#      target: "_blank"
   - link:
       icon: "fa-solid fa-microphone-lines"
       text: "Voiceover"

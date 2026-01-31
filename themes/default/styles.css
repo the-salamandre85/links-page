@@ -79,6 +79,11 @@ a {
   transform: scale(1.05);
 }
 
+
+.link-button-icon {
+  min-width: 23px;
+}
+
 .footer {
   margin-top: 40px;
   font-size: 14px;

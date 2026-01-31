@@ -50,7 +50,7 @@ tagline: >-
 links:
   - link:
       icon: "fa-brands fa-bluesky"
-      text: "BlueSky is my main channel"
+      text: "BlueSky – My Main Social Channel"
       url: "https://bsky.app/profile/salamandre85.bsky.social"
       title: "Salamandre85's BlueSky"
       alt: "Salamandre85's BlueSky"
@@ -64,7 +64,7 @@ links:
 #      target: "_blank"
   - link:
       icon: "fa-solid fa-microphone-lines"
-      text: "Voiceover"
+      text: "Voiceover Space"
       url: "https://voiceover.saulsambono.info/"
       alt: "Saul's Voiceover Work"
       title: "Saul Sambono Voiceover"
@@ -113,12 +113,12 @@ socials:
       title: "Salamandre85's BlueSky"
       alt: "Salamandre85's BlueSky"
       target: "_blank"
-  - social:
-      icon: "fa-brands fa-x-twitter"
-      url: "https://twitter.com/salamandre85"
-      title: "Salamandre85's Twitter"
-      alt: "Salamandre85's Twitter"
-      target: "_blank"
+#   - social:
+#       icon: "fa-brands fa-x-twitter"
+#       url: "https://twitter.com/salamandre85"
+#       title: "Salamandre85's Twitter"
+#       alt: "Salamandre85's Twitter"
+#       target: "_blank"
   - social:
       icon: "fa-brands fa-square-instagram"
       url: "https://www.instagram.com/Salamandre85/"

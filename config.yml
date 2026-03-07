@@ -51,7 +51,7 @@ links:
   - link:
       icon: "fa-solid fa-paper-plane"
       text: "Sign up for my newsletter"
-      url: "news_signup.html"
+      url: "#mailform"
       title: "Saul Sambono's Secret Sauce - Monthly Newsletter"
       target: "_self"
   - link:
@@ -147,6 +147,9 @@ socials:
 # Footer text
 footer: |
     Hi 👋 I'm Saul Sambono | Artist | Music Producer | Cabaret Performer| Sound Designer | Voice Actor | Salamandre85 | Strongman Sadman | frank_Blitz
+
+acknowledgement:
+    As a proud Jingili man and traditional owner from the Wallamarndta clan, Saul acknowledges that he is creating his works on the lands of the Ngunnawal, Wiradjuri, and Gnambri peoples. He acknowledges that the Aboriginal peoples of this country as the traditional owners and custodians of the land. Saul acknowledges the ongoing, living connection of the Aboriginal custodians to the land, and he acknowledges the Elders-- past, present and emerging --of his community. He further acknowledges that "ownership" does not denote the full extent of the cultural, spiritual, and historical connections to the land as traditional custodians. Aboriginal sovereignty was never ceded. This contintent always was and always will be Aboriginal land.
 
 # Footer copyright message
 # Linkyee is a 100% free, open-source project—feel free to modify the copyright message as you like. :)

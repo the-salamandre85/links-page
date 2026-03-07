@@ -49,8 +49,14 @@ tagline: >-
 # target: `_blank` opens in a new tab, `_self` opens in the same frame
 links:
   - link:
+      icon: "fa-solid fa-paper-plane"
+      text: "Sign up for my newsletter"
+      url: "news_signup.html"
+      title: "Saul Sambono's Secret Sauce - Monthly Newsletter"
+      target: "_self"
+  - link:
       icon: "fa-brands fa-bluesky"
-      text: "BlueSky – My Main Social Channel"
+      text: "BlueSky"
       url: "https://bsky.app/profile/salamandre85.bsky.social"
       title: "Salamandre85's BlueSky"
       alt: "Salamandre85's BlueSky"

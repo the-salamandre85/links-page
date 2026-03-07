@@ -71,12 +71,20 @@
     </div>
 
     <div class="iframe-form" id="mailform">
-      <iframe src="./newsletter_signup.html"></iframe>
+      <form action="https://airform.io/mailer@saulsambono.info" method="post">
+        <label for="name">Your name:</label>
+        <input type="text" name="name" style="margin-top: 20px">
+        <br>
+        <label for="message">Your email:</label>
+        <textarea name="message" style="border-top-width: 1px;padding-top: 8px;margin-top: 20px;"></textarea>
+        <button class="button button-default" style="margin-top: 20px;">Send</button>
+      </form>
     </div>
 
     <footer class="footer">
-      {{ footer }}
-      {{ acknowledgement }}
+      <p>{{ footer }}</p>
+      <p><strong>Acknowledgement of Country</strong></p>
+      <p>{{ acknowledgement }}</p>
       <div class="copyright">{{ copyright }}</div>
     </footer>
   </div>

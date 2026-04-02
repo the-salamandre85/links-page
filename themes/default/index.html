@@ -70,18 +70,24 @@
       </div>
     </div>
 
-    <div class="iframe-form" id="mailform">
-      <h2 style="padding: 20px 10px;"> Sign up for my monthly newsletter</h2>
-      <form action="https://airform.io/mailer@saulsambono.info" method="post">
-        <label for="name">Your name:</label>
-        <input type="text" name="name" style="margin-top: 20px;width: 66%;">
-        <br>
-        <label for="email">Your email:</label>
-        <input name="email" style="width: 66%;margin-top: 20px;">
-        <br>
-        <button class="button link-button" style="margin-top: 20px;">Sign me up!</button>
-      </form>
-    </div>
+    <form method="post" action="http://listmonk.saulsambono.info:9000/subscription/form" class="listmonk-form" id="mailform">
+      <div>
+          <h3>Subscribe to my Newsletter</h3>
+          <input type="hidden" name="nonce" />
+
+          <p><input type="email" name="email" required placeholder="E-mail" /></p>
+          <p><input type="text" name="name" placeholder="Name (optional)" /></p>
+
+          <p>
+            <input id="39fc5" type="checkbox" name="l" checked value="39fc54c9-20f9-4af2-a666-c74856c30aac" />
+            <label for="39fc5">Monthly Newsletter</label>
+            <br />
+            <span>Saul Sambono's Monthly Newsletter</span>
+          </p>
+
+          <input class="button link-button" style="margin-top: 20px;" type="submit" value="Subscribe " />
+        </div>
+    </form>
 
     <footer class="footer">
       <p>{{ footer }}</p>

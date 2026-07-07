@@ -48,12 +48,12 @@ tagline: >-
 # alt: Alternative text for accessibility
 # target: `_blank` opens in a new tab, `_self` opens in the same frame
 links:
-  - link:
-      icon: "fa-solid fa-paper-plane"
-      text: "Sign up for my newsletter"
-      url: "#mailform"
-      title: "Saul Sambono's Secret Sauce - Monthly Newsletter"
-      target: "_self"
+#   - link:
+#       icon: "fa-solid fa-paper-plane"
+#       text: "Sign up for my newsletter"
+#       url: "#mailform"
+#       title: "Saul Sambono's Secret Sauce - Monthly Newsletter"
+#       target: "_self"
   - link:
       icon: "fa-brands fa-bluesky"
       text: "BlueSky"
@@ -70,7 +70,7 @@ links:
 #      target: "_blank"
   - link:
       icon: "fa-solid fa-microphone-lines"
-      text: "Voiceover Space"
+      text: "Voiceover Space – Commissions Currently on Hold"
       url: "https://voiceover.saulsambono.info/"
       alt: "Saul's Voiceover Work"
       title: "Saul Sambono Voiceover"

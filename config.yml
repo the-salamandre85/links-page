@@ -56,7 +56,7 @@ links:
 #       target: "_self"
   - link:
       icon: "fa-brands fa-bluesky"
-      text: "BlueSky"
+      text: "Salamandre85 on BlueSky"
       url: "https://bsky.app/profile/salamandre85.bsky.social"
       title: "Salamandre85's BlueSky"
       alt: "Salamandre85's BlueSky"
@@ -78,7 +78,7 @@ links:
   - link:
       icon: "fa-brands fa-soundcloud"
       text: "Demos & sonic experiments"
-      url: "https://soundcloud.com/saul-sambono/"
+      url: "https://audiomack.com/frank-blitz"
       title: "Soundcloud"
       alt: "frank_Blitz on Soundcloud"
       target: "_blank"

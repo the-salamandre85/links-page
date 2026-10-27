@@ -56,7 +56,7 @@ links:
 #       target: "_self"
   - link:
       icon: "fa-brands fa-bluesky"
-      text: "Salamandre85 on BlueSky"
+      text: "The Salamandre85 on BlueSky"
       url: "https://bsky.app/profile/salamandre85.bsky.social"
       title: "Salamandre85's BlueSky"
       alt: "Salamandre85's BlueSky"
@@ -77,7 +77,7 @@ links:
       target: "_blank"
   - link:
       icon: "fa-brands fa-soundcloud"
-      text: "Demos & sonic experiments"
+      text: "Music Demos & Sonic Experiments"
       url: "https://audiomack.com/frank-blitz"
       title: "Soundcloud"
       alt: "frank_Blitz on Soundcloud"
@@ -98,8 +98,8 @@ links:
       #target: "_blank"
   - link:
       icon: "fa-brands fa-instagram"
-      text: "Saul Sambono's visual work"
-      url: "https://www.instagram.com/saul.sambono.art/"
+      text: "Saul Sambono's Alternative Creative Space"
+      url: "https://www.instagram.com/alt.saulcreates/"
       title: "Instagram"
       alt: "Salamandre85's Instagram"
       target: "_blank"
@@ -127,7 +127,7 @@ socials:
 #       target: "_blank"
   - social:
       icon: "fa-brands fa-square-instagram"
-      url: "https://www.instagram.com/Salamandre85/"
+      url: "https://www.instagram.com/alt.saulcreates/"
       title: "Instagram"
       alt: "Salamandre85's Instagram"
       target: "_blank"
